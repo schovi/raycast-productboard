@@ -12,7 +12,7 @@
 
 1. In your home directory create (or just update) `secrets.sh` file
    - or copy the example `cp -i ./secrets.sh.example ~/secrets.sh` (if file already exists it shows prompt to prevent accidental file override)
-2. Open [Notes API for Insights](https://support.productboard.com/hc/en-us/articles/360058176853-Notes-API-for-Insights)
+2. Open [Notes API for Insights](https://support.productboard.com/hc/en-us/articles/360058176853#h_01EY1CCSSXSC2WNSJWAYCZVC08)
    - and under **Get started** you can see how to get the public API token
 3. Write the token into `secrets.sh`
    - `export PRODUCTBOARD_TOKEN="the token"`
